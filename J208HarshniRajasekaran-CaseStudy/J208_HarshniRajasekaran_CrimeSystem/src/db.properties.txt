@@ -1,0 +1,5 @@
+hostname=<localhost>
+dbname=<crimecase>
+username=<root>
+password=<Harsh@1109>
+port=<3306>
